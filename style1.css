@@ -1,0 +1,42 @@
+body{
+    background-image: "bg.jpeg";
+}
+
+.movie{
+    height: 50px;
+    width: 180px;
+    margin-top: -820px;
+    margin-left: 150px;
+}
+
+input{
+    text-align: center;
+}
+
+.i{
+    color: aliceblue;
+    
+}
+
+.signup{
+    background: rgb(123, 117, 117);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+}
+
+.l{
+    color: aliceblue;
+}
+
+.pic{
+    width: 740px;
+    height: 700px;
+    margin-left: 450px;
+    margin-right: 70px;
+    margin-top: 40px;
+    padding-bottom: 120px;
+    padding-top: 60px;
+}
+
